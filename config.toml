@@ -1,0 +1,4 @@
+baseURL = "https://adowyer.github.io/"
+languageCode = "en-us"
+title = "My New Andrea Dowyer Site"
+theme = "hugo-agency-theme"
